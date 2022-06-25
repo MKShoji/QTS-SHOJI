@@ -1,0 +1,1 @@
+console.log("%cHello World", "background-color: green");
