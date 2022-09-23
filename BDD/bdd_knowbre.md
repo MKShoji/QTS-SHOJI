@@ -19,7 +19,7 @@
 >
 >Então ele deve ser redirecionado para a página principal de usuário logado (Home)
 >
-## Cenário: Login con dados incorretos
+## Cenário: Login com dados incorretos
 >E ele acessa a página de login
 >
 >E preenche suas credenciais inválidas
